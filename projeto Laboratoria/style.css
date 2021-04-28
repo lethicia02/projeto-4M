@@ -1,0 +1,14 @@
+.corretas{
+    display: inline-block;
+      width: 100px;
+      height: 100px;
+      padding: 5px;
+      border: 5px solid black;    
+    }
+    .erradas{
+    display: inline-block;
+      width: 100px;
+      height: 100px;
+      padding: 5px;
+      border: 5px solid black;    
+    }
